@@ -40,7 +40,7 @@ This is a catalog of agents I have made since I began learning about Copilot and
 
 ## Prompt Playground
 
-- This is a catalog of all my favorite prompts and personalization for Copilot.
+This is a catalog of all my favorite prompts and personalization for Copilot.
 - Meeting Catch Up  
 - Copilot Memory  
 - Copilot Personalization  
