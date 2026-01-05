@@ -60,16 +60,6 @@ This section is built for IT admins and security teams. It features short videos
 
 ### Video Tracks
 
-Getting Started Guide for Copilot Governance from our 4-part webinar series and covers:
+[Getting Started Guide for Copilot Governance](./education%20playground/copilot%20governance%20getting%20started.md) 
 
-- **Session 1: Copilot and Agent Governance Foundations in the M365 Admin Center**  
-  Deployment approach, the Copilot Control System, access and billing controls, and how to highlight or restrict agents.
-
-- **Session 2: Copilot Studio + Power Platform Governance**  
-  Managed Environments, environment routing, DLP strategy, connector risk controls, and cost management for agents.
-
-- **Session 3: Purview for M365 + Agents**  
-  Sensitivity labels, DLP, insider risk, audit/eDiscovery, and how labeling and oversharing shape what Copilot can surface.
-
-- **Session 4: SharePoint Advanced Management (SAM) for Content Signals**  
-  Oversharing baselines, lifecycle cleanup, access reviews, RAC/RCD, and making Copilot “see” the right content.
+- These sessions cover practical governance for Microsoft 365 Copilot and agents across the M365 Admin Center, Copilot Studio, Power Platform, Purview, and SharePoint Advanced Management, focusing on access and management controls, DLP and labeling, oversharing cleanup, connector risk, and cost management.
