@@ -14,7 +14,7 @@ The output is structured to emphasize strategy, execution, and visibility. It hi
 
 ---
 
-## How to Build
+## Setup
 
 ### Description
 
@@ -130,7 +130,9 @@ Score items, then rank by score and business impact. Favor customer-facing impac
 ![image alt](https://github.com/heyitsgoad/copilot-playground/blob/b9116a3f42a9481ea9b17bcab62a45050b414cb2/agent%20playground/assets/impact%20check/impact%20agent%20capabilities.png)
 ---
 
-## Starter Prompts
+## Run
+
+**Starter Prompts**
 
 ### Top Wins
 
