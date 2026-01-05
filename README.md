@@ -27,7 +27,7 @@ This is a catalog of agents I have made since I began learning about Copilot and
 
 - Professor X is an agent designed to coach your speaking and presentation skills. Just submit a transcript, and Professor X will analyze and provide feedback to help improve your next talk.
 
-### Taskmaster
+### [Taskmaster](./agent%20playground/taskmaster.md)
 
 - Taskmaster acts as your chief of staff who tracks your opportunities, surfaces what needs your attention, pulls out action items, and gives you strategic guidance to move opportunities and projects forward.
 
