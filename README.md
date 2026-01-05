@@ -1,97 +1,69 @@
-This repository is a portfolio of my Copilot agents, prompt library, and videos that show how I design, ship, and teach AI solutions across Microsoft 365, Copilot Studio, and Agent 365.
 
-Audience: customers, partners, and hiring managers who want to see real work, not slides
-Focus: measurable outcomes, secure enterprise patterns, and hands‑on examples
-Tech: Microsoft 365 Copilot, Copilot Chat, Copilot Studio, Agent 365, Purview, Power Platform, and ChatGPT
+This repository is a portfolio of my **Copilot agents**, **prompt library**, and **videos** that show how I design, manage and govern, and teach AI solutions across Microsoft 365, Copilot Studio, and Agent 365.
 
-AI Agents
-Production‑ready and workshop‑ready agents. Each folder includes a README, governance notes, and a minimal test script.
-Categories
+- **Tech:** Microsoft 365 Copilot, Copilot Studio, Agent 365, Purview, Intune, Power Platform, Azure OpenAI, local/open models
 
-Healthcare
+---
 
-Care‑Ops Triage Agent: routes non‑clinical requests, respects labels and DLP
-Meeting Intelligence Agent: action items from clinical and ops calls, writes to Teams/Planner
+## Agent Playground
 
+This is a catalog of agents I have made since I began learning about Copilot and Agent.
 
-Productivity (M365)
+### Each Agent Includes
 
-Inbox Prioritizer: flags high‑signal emails, drafts replies with org‑safe grounding
-Doc Review Assistant: suggests edits, tracks changes, logs activity for audit
+- **Overview:** README file and overview  
+- **Architecture:** instructions and starter prompts  
+- **Setup:** environment, connectors, variables, permissions  
+- **Run:** quick start script or solution  
+- **Governance:** what’s logged, who can execute, cost guardrails  
 
+### BossBuddy
 
-Data‑Ops
+- BossBuddy is a virtual AI manager I created to guide you in your work, strategy, and career growth through simple conversations. It helps clarify your impact and see the bigger picture in projects and opportunities.
 
-Content Signals Agent: SAM + SharePoint access reviews to reduce oversharing
-Labeling Coach: recommends sensitivity labels based on usage patterns
+### Professor X
 
+- Professor X is an agent designed to coach your speaking and presentation skills. Just submit a transcript, and Professor X will analyze and provide feedback to help improve your next talk.
 
+### Taskmaster
 
-Each Agent Includes
+- Taskmaster acts as your chief of staff who tracks your opportunities, surfaces what needs your attention, pulls out action items, and gives you strategic guidance to move opportunities and projects forward.
 
-Overview: problem, outcome, measurable metric
-Architecture: boundaries, data flow, controls (Purview/DLP/SAM)
-Setup: environment, connectors, variables, permissions
-Run: quick start script or solution
-Governance: what’s logged, who can execute, cost guardrails
+### Impact Check
 
+- Ever have trouble realizing the impact you make on everyday work and projects? Impact Check agent enables you to work more efficiently by summarizing, analyzing, creating, and linking information within your Microsoft 365 apps, using only data you can already access. This helps you understand your influence and impact on both projects and teammates.
 
-Category-first organization takes cues from curated LLM agent lists. [github.com]
+---
 
+## Prompt Playground
 
-Prompt Library
-Actionable prompts organized by app and role. Short, tested, and written to work with default enterprise controls.
-Organization
+- This is a catalog of all my favorite prompts and personalization for Copilot.
+- Meeting Catch Up  
+- Copilot Memory  
+- Copilot Personalization  
+- Worst Traits to Enhance Growth  
+- Kick‑off, reset, and Wrap‑up  
+- Next Level (Taking prompt output to the next level)  
+- 1‑on‑1 (Manager Weekly Connect)  
+- Proofread Prompt  
+- Positivity Prompts  
 
-M365 Apps: Outlook, Teams, Word, Excel, PowerPoint
-Studio: building, testing, connector policies, evaluation
-Governance: DLP, labels, insider risk, eDiscovery language
+---
 
-File Pattern
+## Copilot Management & Governance
 
-Use case: one line
-Prompt: copy‑paste block
-Optional inputs: variables, data sources
-Output target: reply email, doc comment, task list
-Notes: risks, label hints, audit logging
+This section is built for IT admins and security teams. It features short videos and runnable guides that show how to **manage**, **govern**, and **observe** Copilot and agents at scale.
 
+### Video Tracks
 
-Copilot Management & Governance
-This section is built for IT admins and security teams. It features short videos and runnable guides that show how to manage, govern, and observe Copilot and agents at scale.
-Video Tracks
+- **Session 1: Copilot and Agent Governance Foundations in the M365 Admin Center**  
+  Deployment approach, the Copilot Control System, access and billing controls, and how to highlight or restrict agents.
 
-Admin Center: Copilot Control System
+- **Session 2: Copilot Studio + Power Platform Governance**  
+  Managed Environments, environment routing, DLP strategy, connector risk controls, and cost management for agents.
 
-Access and billing controls
-Frontier and in‑app feature routing
-Scoped rollouts by user or group
+- **Session 3: Purview for M365 + Agents**  
+  Sensitivity labels, DLP, insider risk, audit/eDiscovery, and how labeling and oversharing shape what Copilot can surface.
 
-
-Copilot Studio + Power Platform Governance
-
-Managed Environments, environment routing
-Connector risk controls and DLP policies
-Cost management and execution limits
-
-
-Purview for M365 + Agents
-
-Sensitivity labels, policy hints, DLP rules
-Insider risk, audit/eDiscovery baselines
-How labeling shapes Copilot visibility
-
-
-SharePoint Advanced Management (SAM)
-
-Oversharing baselines, lifecycle cleanup
-Access reviews, RAC/RCD
-Content signals so Copilot “sees” the right data
-
-
-
-Each video folder includes:
-
-Context: what you’ll change and why
-Steps: numbered actions, screenshots or CLI snippets
-Checks: how to verify policy impact
-Roll‑back: how to safely revert
+- **Session 4: SharePoint Advanced Management (SAM) for Content Signals**  
+  Oversharing baselines, lifecycle cleanup, access reviews, RAC/RCD, and making Copilot “see” the right content.
