@@ -42,7 +42,7 @@
 
 ---
 
-## After Reset
+## Afternoon Reset
 
 **Good Afternoon Copilot, provide a recap for my after-lunch summary.**
 
