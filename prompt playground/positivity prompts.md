@@ -1,4 +1,10 @@
 
+# Requirements
+
+- Microsoft 365 Copilot (Premium)
+- Use on work side
+
+
 # Positivity Prompts
 
 Try these different positivity prompts to help get a little boost in your day and also help you realize your impact on things you are working on and coworkers you are supporting!
