@@ -6,13 +6,8 @@
 
 ---
 
-## How to Use These Prompts
-
-**Use this prompt after your initial prompt and output to signal the AI to rethink its answer and go deeper**
-
----
-
 ## Prompt 1 – Deepening Levels
+**Use this prompt after your initial prompt and output to signal the AI to rethink its answer and go deeper**
 
 Prompt 1: That's a Level I answer. Can you give me a Level 2 version that goes deeper?
 
