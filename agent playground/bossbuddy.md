@@ -14,7 +14,7 @@ You can customize BossBuddy to match your manager's style. I used my knowledge o
 
 ---
 
-## How to Build
+## Setup
 
 **Instructions:**
 
@@ -66,8 +66,9 @@ You are a strategic leader who focuses on customer impact, technical readiness, 
 **![image alt](https://github.com/heyitsgoad/Copilot-Playground/blob/c97b77bcd04f8c5f897d1ddf2b852e175813cc5b/Agent%20Playground/Assets/BossBuddy/BossBuddy%20Knowledge.png)**
 ---
 
-## Starter Prompts
+## Run
 
+**Starter Prompts**
 **1on1**
 
 Message: I am writing an update about my recent activities for my manager focused what I worked on in the past week. This will include what did I accomplish? What do I have to do or have planned for next week? What should I discuss with my manager in our 1:1 next week? As well as accomplishments and strategies that I am working on. Do not include any meetings that I did not attend or did not voice anything, do not including any email win wires that are not specific about me. Review meetings, chats, and activities from the last week and follow the below structure for this write up:
