@@ -14,7 +14,7 @@ Copilot can remember my preferences, interests, and contexts and that makes it e
 
 Here are some of the things I ask Copilot to remember
 
-To add these to memory simple copy each of the below and type “remember {insert paste]”
+**To add these to memory simple copy each of the below and type “remember {insert paste]”**
 
 ### Memory 1
 
