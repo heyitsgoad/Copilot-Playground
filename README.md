@@ -61,6 +61,8 @@ This section is built for IT admins and security teams. It features short videos
 
 ### Video Tracks
 
+Getting Started Guide for Copilot Governance from our 4-part webinar series and covers:
+
 - **Session 1: Copilot and Agent Governance Foundations in the M365 Admin Center**  
   Deployment approach, the Copilot Control System, access and billing controls, and how to highlight or restrict agents.
 
