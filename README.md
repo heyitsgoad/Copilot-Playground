@@ -43,7 +43,7 @@ This is a catalog of agents I have made since I began learning about Copilot and
 **This is a catalog of all my favorite prompts and personalization for Copilot.**
 - Meeting Catch Up    
 - Worst Traits to Enhance Growth  
-- Morning Kick‑off, Reset, and Wrap‑up  
+- [Morning Kick‑off, Afternoon Reset, and Wrap‑up](prompt%20playground/morning-kickoff-afternoon-reset-and-wrap-up.md)
 - Next Level (Taking prompt output to the next level)  
 - [Proofread Prompt  ](./prompt%20playground/proofread%20prompt.md)
 - [Positivity Prompts](./prompt%20playground/positivity%20prompts.md)
