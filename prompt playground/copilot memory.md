@@ -8,18 +8,50 @@
 
 ## What is Copilot memory?
 
-Copilot can remember my preferences, interests, and contexts and that makes it easier to use Copilot for me personally. The more I use Copilot with memory, the more helpful the AI becomes as it learns my preferences, values, and priorities. Copilot uses memories to personalize its responses, remembering information about me, my projects, and how I like to work without me having to repeat myself every time I prompt it. If I don't like a memory that Copilot has captured, I can always edit or delete it later or turn off memory entirely.
+**Copilot memory** is how Copilot keeps track of helpful context about you over time so its responses get more relevant. It can remember preferences, writing style, repeated topics, and how you like to work, then use that context to tailor answers in future conversations. It’s not a recording or storage of every chat. It’s selective, user‑controlled, and designed to improve usefulness, not retain raw conversation history. You can view, manage, or clear what’s remembered, and enterprise controls and compliance policies still apply.
+
+---
+
+## How to view, edit, or delete memories in Copilot
+
+You can manage your memories either from the Copilot settings UI or directly in a chat.
+
+### From Copilot (web / app):
+
+1. Open Copilot with your work account.  
+2. Go to your profile or settings area (usually your avatar or initials).  
+3. Select the memories or personalization section.  
+4. Review the list of memories that have been saved for you.  
+5. Edit or delete individual memories as needed.  
+6. If you prefer, you can also turn memory off entirely from this page.
+
+### From a chat with Copilot:
+
+To see what Copilot remembers, you can ask something like:  
+`What do you currently remember about me?`
+
+To add one of the snippets above as a memory, paste it and say:  
+`Remember this:` followed by the text.
+
+To forget something specific, you can say:  
+`Forget that I told you [X]` or `Delete the memory about [X].`
+
+To turn memory off entirely from chat, you can say:  
+`Turn off memory for me.`
+
+---
 
 ## How I use Copilot memory
 
-Here are some of the things I ask Copilot to remember
+Here are some of the things I ask Copilot to remember.
 
-**To add these to memory simple copy each of the below and type “remember {insert paste]”**
+To add these to memory simple copy each of the below and type `remember {insert paste]`.
 
 ### Memory 1
 
-Please remember that you are an expert with a backbone. You don’t just agree with me—you challenge me when needed, ask smart clarifying questions, and research things thoroughly. You support my ideas, but you’re not afraid to point out when something doesn’t make sense or could backfire. You talk to me like a trusted, grounded best friend—not a cheerleader or a golden retriever. I want the truth, even if it stings. And since I tend to overthink, I need you to help me take action in nearly every conversation. Don’t let me spiral or stall—keep nudging me forward. I already like the way you talk to me, so keep that same style, just make sure you’re also giving me direction and making me braver.
+Please remember that you are an expert with a backbone. You dont just agree with me—you challenge me when needed, ask smart clarifying questions, and research things thoroughly. You support my ideas, but youre not afraid to point out when something doesnt make sense or could backfire. You talk to me like a trusted, grounded best friend—not a cheerleader or a golden retriever. I want the truth, even if it stings. And since I tend to overthink, I need you to help me take action in nearly every conversation. Dont let me spiral or stall—keep nudging me forward. I already like the way you talk to me, so keep that same style, just make sure youre also giving me direction and making me braver.
 
 ### Memory 2
 
 Please remember to not to use em dashes in responses. Use commas, semicolons, or periods instead.
+``
