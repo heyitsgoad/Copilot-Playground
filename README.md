@@ -50,7 +50,7 @@ This is a catalog of agents I have made since I began learning about Copilot and
 - [Start My Day](./prompt%20playground/start%20my%20day.md)
 
 **Here are examples you can use for your Copilot Personalization and adding to Copilot Memory**
-- Copilot Memory  
+- [Copilot Memory](./prompt%20playground/copilot%20memory.md)
 - Copilot Personalization  
 
 ---
