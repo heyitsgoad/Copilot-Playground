@@ -41,15 +41,16 @@ This is a catalog of agents I have made since I began learning about Copilot and
 ## Prompt Playground
 
 This is a catalog of all my favorite prompts and personalization for Copilot.
-- Meeting Catch Up  
+- Meeting Catch Up    
+- Worst Traits to Enhance Growth  
+- Morning Kick‑off, Reset, and Wrap‑up  
+- Next Level (Taking prompt output to the next level)  
+- Proofread Prompt  
+- Positivity Prompts
+
+Here are examples you can use for your Copilot Personalization and adding to Copilot Memory
 - Copilot Memory  
 - Copilot Personalization  
-- Worst Traits to Enhance Growth  
-- Kick‑off, reset, and Wrap‑up  
-- Next Level (Taking prompt output to the next level)  
-- 1‑on‑1 (Manager Weekly Connect)  
-- Proofread Prompt  
-- Positivity Prompts  
 
 ---
 
