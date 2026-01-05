@@ -1,7 +1,7 @@
 
 # Requirements
 
-- Microsoft 365 Copilot
+- Microsoft 365 Copilot (Premium)
 - Microsoft 365 Copilot Chat (free)
 
 ---
