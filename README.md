@@ -7,6 +7,7 @@ This repository is a portfolio of my **Copilot agents**, **prompt library**, and
 
 ---
 
+
 ## Agent Playground
 
 This is a catalog of agents I have made since I began learning about Copilot and Agent.
@@ -37,6 +38,7 @@ This is a catalog of agents I have made since I began learning about Copilot and
 
 ---
 
+
 ## Prompt Playground
 
 - This is a catalog of all my favorite prompts and personalization for Copilot.
@@ -51,6 +53,7 @@ This is a catalog of agents I have made since I began learning about Copilot and
 - Positivity Prompts  
 
 ---
+
 
 ## Copilot Management & Governance
 
