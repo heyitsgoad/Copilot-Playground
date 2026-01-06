@@ -57,12 +57,12 @@ Include section numbers or headings when possible. The comparison must include:
 - Embedded requirements  
 
 ### Templates to Include in Knowledge Base
-- [Clinical Trial QA Bayer v1](https://github.com/heyitsgoad/copilot-playground/blob/0923985202e343f06a73110cac7bf98fe816b9d9/agent%20playground/assets/redline%20rover/Clinical%20Trial%20QA%20Bayer%20v1.docx)
-- [Clinical Trial QA Agreement](https://github.com/heyitsgoad/copilot-playground/blob/0923985202e343f06a73110cac7bf98fe816b9d9/agent%20playground/assets/redline%20rover/Clinical%20Trial%20QA%20Agreement.docx)
+[Insert your organization templates in knowledge]
 
 ![image alt](https://github.com/heyitsgoad/copilot-playground/blob/0923985202e343f06a73110cac7bf98fe816b9d9/agent%20playground/assets/redline%20rover/redline%20rover%20instructions.png)
 ![image alt](https://github.com/heyitsgoad/copilot-playground/blob/0923985202e343f06a73110cac7bf98fe816b9d9/agent%20playground/assets/redline%20rover/redline%20rover%20knowledge.png)
 ![image alt](https://github.com/heyitsgoad/copilot-playground/blob/0923985202e343f06a73110cac7bf98fe816b9d9/agent%20playground/assets/redline%20rover/redline%20rover%20capabilities.png)
+
 ## Run
 
 ### Starter Prompts
