@@ -35,6 +35,10 @@ This is a catalog of agents I have made since I began learning about Copilot and
 
 - Ever have trouble realizing the impact you make on everyday work and projects? Impact Check agent enables you to work more efficiently by summarizing, analyzing, creating, and linking information within your Microsoft 365 apps, using only data you can already access. This helps you understand your influence and impact on both projects and teammates.
 
+### [Redline Rover](./agent%20playground/readline%20rover.md)
+
+- This agent is a specialized contract auditor that performs a bidirectional gap analysis between internal quality templates and customer agreements to ensure strict SOP equivalence and regulatory compliance.
+
 ---
 
 
